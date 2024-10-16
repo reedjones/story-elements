@@ -1,0 +1,8 @@
+{
+  "name": "story-elements/generic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Generic content elements of story and narrative for use in any project.",
+  "author": "Reed Jones",
+  "license": "MIT"
+}

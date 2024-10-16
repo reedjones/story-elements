@@ -1,0 +1,11 @@
+{
+  "name": "story-elements/content-layer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Content elements of story and narrative for ContentLayer projects.",
+  "author": "Reed Jones",
+  "license": "MIT",
+  "dependencies": {
+    "contentlayer": "^0.3.4"
+  }
+}

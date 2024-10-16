@@ -1,0 +1,22 @@
+{
+  "name": "story-elements",
+  "version": "1.0.0",
+  "description": "A comprehensive content model for story elements, reusable in any content or media context.",
+  "main": "index.js",
+  "exports": {
+    "./content-layer": "./content-layer/index.js",
+    "./generic": "./generic/index.js"
+  },
+  "files": [
+    "content-layer",
+    "generic",
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentlayer": "^0.3.4"
+  }
+}

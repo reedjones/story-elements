@@ -2,6 +2,11 @@
 
 This library provides a comprehensive content model for narrative elements, usable in various contexts. You can install either the ContentLayer integration or the generic version.
 
+<div style="width:100%; height:400px; display:flex; align-items: center;
+  justify-content: center;">
+  <img src="logo.jpg" alt='story-elements'/>
+</div>
+
 ## Installation
 
 ### ContentLayer version

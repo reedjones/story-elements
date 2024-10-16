@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "contentlayer": "^0.3.4"
+    "contentlayer": "^0.3.4",
+    "typescript-json-schema": "^0.65.1"
   }
 }

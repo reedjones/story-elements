@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs":true,
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"], // Adjust this according to your folder structure
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

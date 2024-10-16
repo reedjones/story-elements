@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+        "narrator": {
+            "type": "string"
+        },
+        "perspective": {
+            "enum": [
+                "first-person",
+                "second-person",
+                "third-person"
+            ],
+            "type": "string"
+        }
+    },
+    "required": [
+        "narrator",
+        "perspective"
+    ],
+    "type": "object"
+}
+

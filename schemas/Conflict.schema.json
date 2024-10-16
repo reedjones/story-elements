@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+        "description": {
+            "type": "string"
+        },
+        "resolutionPath": {
+            "type": "string"
+        },
+        "stakes": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "description",
+        "resolutionPath",
+        "stakes"
+    ],
+    "type": "object"
+}
+

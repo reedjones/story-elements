@@ -7,6 +7,9 @@
     "./content-layer": "./content-layer/index.js",
     "./generic": "./generic/index.js"
   },
+  "scripts": {
+    "create-schema-files": "npm run-script ./create-schema-files"
+  },
   "files": [
     "content-layer",
     "generic",

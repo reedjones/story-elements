@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+        "characterResponses": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "events": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        }
+    },
+    "required": [
+        "characterResponses",
+        "events"
+    ],
+    "type": "object"
+}
+

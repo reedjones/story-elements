@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "properties": {
+        "meanings": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "symbols": {
+            "items": {
+                "type": "string"
+            },
+            "type": "array"
+        }
+    },
+    "required": [
+        "meanings",
+        "symbols"
+    ],
+    "type": "object"
+}
+
